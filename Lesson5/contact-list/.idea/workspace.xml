@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30c9e578-b1aa-43db-94b8-880a06015ee3" name="Default" comment="" />
+    <list default="true" id="fb81d5f2-3492-44ea-9745-dc8f1d668ddc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,20 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="easter.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/easter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+            <state relative-caret-position="493">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -41,11 +32,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>contacts-list</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/js/list-view.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/easter.js" />
+        <option value="$PROJECT_DIR$/js/load-contacts.js" />
       </list>
     </option>
   </component>
@@ -59,8 +56,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="269" />
-    <option name="y" value="134" />
+    <option name="x" value="110" />
+    <option name="y" value="35" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -73,8 +70,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="easter-egg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easter-egg" type="462c0819:PsiDirectoryNode" />
+              <item name="contact-list" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contact-list" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact-list" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -85,7 +87,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lesson5/contact-list" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -106,24 +108,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="30c9e578-b1aa-43db-94b8-880a06015ee3" name="Default" comment="" />
-      <created>1533227900546</created>
+      <changelist id="fb81d5f2-3492-44ea-9745-dc8f1d668ddc" name="Default" comment="" />
+      <created>1533280350202</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533227900546</updated>
-      <workItem from="1533227901763" duration="2635000" />
-      <workItem from="1533269273217" duration="2696000" />
-      <workItem from="1533280337550" duration="12000" />
+      <updated>1533280350202</updated>
+      <workItem from="1533280351469" duration="3884000" />
+      <workItem from="1533284730372" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5343000" />
+    <option name="totallyTimeSpent" value="3892000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="269" y="134" width="1400" height="1000" extended-state="0" />
+    <frame x="110" y="35" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3468208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -151,43 +152,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="493">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/easter.js">
+    <entry file="file://$PROJECT_DIR$/js/load-contacts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/list-view.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/easter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="51">
+          <caret line="3" column="97" selection-start-line="3" selection-start-column="97" selection-end-line="3" selection-end-column="97" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/easter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        <state relative-caret-position="493">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>

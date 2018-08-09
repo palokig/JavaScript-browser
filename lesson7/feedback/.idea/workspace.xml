@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab3008be-3c37-4ab3-8e40-6cfc418e4c79" name="Default" comment="" />
+    <list default="true" id="0f4d0c95-5cc7-4208-89cf-fb338237aa17" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,20 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="456">
+              <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="request-item.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/request-item.js">
+      <file leaf-file-name="contentform.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/contentform.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            <state relative-caret-position="561">
+              <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/form.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="150" column="7" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -41,11 +50,22 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fa-map-marker</find>
+      <find>contentform</find>
+      <find>city</find>
+      <find>subject</find>
+      <find>email</find>
+      <find>address</find>
+      <find>hidden</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/request-item.js" />
+        <option value="$PROJECT_DIR$/js/contentform.js" />
       </list>
     </option>
   </component>
@@ -59,9 +79,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="503" />
-    <option name="y" value="38" />
-    <option name="width" value="1400" />
+    <option name="x" value="109" />
+    <option name="y" value="192" />
+    <option name="width" value="1696" />
     <option name="height" value="1002" />
   </component>
   <component name="ProjectView">
@@ -69,28 +89,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="books-catalog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="books-catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="feedback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feedback" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="books-catalog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="books-catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="feedback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feedback" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="feedback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feedback" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lesson7/todo-list" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -111,21 +136,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab3008be-3c37-4ab3-8e40-6cfc418e4c79" name="Default" comment="" />
-      <created>1533549121546</created>
+      <changelist id="0f4d0c95-5cc7-4208-89cf-fb338237aa17" name="Default" comment="" />
+      <created>1533728835848</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533549121546</updated>
-      <workItem from="1533549122777" duration="2845000" />
-      <workItem from="1533714448513" duration="26000" />
+      <updated>1533728835848</updated>
+      <workItem from="1533728837053" duration="8006000" />
+      <workItem from="1533788800264" duration="4350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2871000" />
+    <option name="totallyTimeSpent" value="12356000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="503" y="38" width="1400" height="1002" extended-state="0" />
+    <frame x="109" y="192" width="1696" height="1002" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -155,32 +181,36 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="1428">
+          <caret line="84" column="4" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/request-item.js">
+    <entry file="file://$PROJECT_DIR$/js/contentform.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        <state relative-caret-position="527">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/built-in-ui.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/css/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="150" column="7" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contentform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/request-item.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        <state relative-caret-position="456">
+          <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
         </state>
       </provider>
     </entry>

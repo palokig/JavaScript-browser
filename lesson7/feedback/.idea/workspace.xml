@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+            <state relative-caret-position="472">
+              <caret line="83" column="9" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -35,7 +35,7 @@
       <file leaf-file-name="form.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/form.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
+            <state relative-caret-position="2550">
               <caret line="150" column="7" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="7" />
             </state>
           </provider>
@@ -115,7 +115,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lesson8/slider" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -142,16 +142,16 @@
       <option name="presentableId" value="Default" />
       <updated>1533728835848</updated>
       <workItem from="1533728837053" duration="8006000" />
-      <workItem from="1533788800264" duration="4350000" />
+      <workItem from="1533788800264" duration="4949000" />
+      <workItem from="1534251194276" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12356000" />
+    <option name="totallyTimeSpent" value="12981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="109" y="192" width="1696" height="1002" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -181,6 +181,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contentform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="150" column="7" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
           <caret line="84" column="4" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
         </state>
@@ -195,7 +216,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/form.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
+        <state relative-caret-position="2550">
           <caret line="150" column="7" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="7" />
         </state>
       </provider>
@@ -209,8 +230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+        <state relative-caret-position="472">
+          <caret line="83" column="9" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
         </state>
       </provider>
     </entry>

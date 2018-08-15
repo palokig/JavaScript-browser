@@ -4,7 +4,12 @@ document.querySelector('.slide').classList.add('slide-current');
 
 function nextActionSlider() {
     slideCurrentSelector = document.querySelector('.slide-current');
-    if (slideCurrentSelector.nextElementSibling == null){} else {
+    if (slideCurrentSelector.nextElementSibling == null){
+    event.currentTarget.classList.add('disabled');
+    Array.from(sliderNavSelector).forEach(item => {if ( item.dataset.action === 'last') {
+        item.classList.add('disabled');
+    }});
+    } else {
     slideCurrentSelector.classList.remove('slide-current');
     slideCurrentSelector.nextElementSibling.classList.add('slide-current');
     }
@@ -12,7 +17,12 @@ function nextActionSlider() {
 
 function prevActionSlider() {
     slideCurrentSelector = document.querySelector('.slide-current');
-    if (slideCurrentSelector.previousElementSibling == null){} else {
+    if (slideCurrentSelector.previousElementSibling == null){
+        event.currentTarget.classList.add('disabled');
+        Array.from(sliderNavSelector).forEach(item => {if ( item.dataset.action === 'first') {
+            item.classList.add('disabled');
+        }});
+    } else {
         slideCurrentSelector.classList.remove('slide-current');
         slideCurrentSelector.previousElementSibling.classList.add('slide-current');
     }
@@ -33,7 +43,6 @@ function lastActionSlider() {
 }
 
 function slider(container){
-    console.log(container.dataset.action)
     if (container.dataset.action === 'next') {
         container.addEventListener('click', nextActionSlider);
     } else if ( container.dataset.action === 'prev') {

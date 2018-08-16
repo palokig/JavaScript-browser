@@ -1,7 +1,7 @@
 'use strict';
-var ee;
+
 function toggleMenu(event) {
-  ee = event.target;
+
   if (event.target.dataset.toggle=='dropdown') {
       if (this.classList.contains('show')) {
           this.classList.remove('show');

@@ -174,7 +174,7 @@ function delProduct(event) {
                  //console.log(data);
                  if (data.length == 0) {
                      document.getElementById(`quick-cart-product-${productId}`).innerHTML='';
-                     
+
                  } else {
                      const foundElement = data.find(function (el) {
                          return el.id = "2721888517";

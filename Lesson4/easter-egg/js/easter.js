@@ -13,45 +13,23 @@ function showKey() {
 
 document.addEventListener('keydown',showKey);
 
-var secretCode = '';
-var secretCodeCorrect = 'нетология';
+var secretCode = [];
+var secretCodeCorrect = ['KeyY','KeyT','KeyN','KeyJ','KeyK','KeyJ','KeyU','KeyB','KeyZ'];
 var secretElements = document.getElementsByClassName('secret')[0];
 
 function showSecretCode(){
-
-    let eventCode = event.code;
-    if (event.code === 'KeyY') {
-        eventCode = 'н'
-    }
-    if (event.code === 'KeyT') {
-        eventCode = 'е'
-    }
-    if (event.code === 'KeyN') {
-        eventCode = 'т'
-    }
-    if (event.code === 'KeyJ') {
-        eventCode = 'о'
-    }
-    if (event.code === 'KeyK') {
-        eventCode = 'л'
-    }
-    if (event.code === 'KeyU') {
-        eventCode = 'г'
-    }
-    if (event.code === 'KeyB') {
-        eventCode = 'и'
-    }
-    if (event.code === 'KeyZ') {
-        eventCode = 'я'
-    }
-
-    secretCode = secretCode + eventCode;
-  if (secretCode.length  >= secretCodeCorrect.length ) {
-    if (secretCode === secretCodeCorrect) {
-      secretElements.classList.toggle('visible');
+    if (secretCodeCorrect[secretCode.length] == event.code) {
+        secretCode.push(event.code);
+        console.log(secretCode);
     }
     else {
-        SecretCode = '';
+        secretCode = [];
+        console.log(secretCode);
+    }
+
+  if (secretCode.length  >= secretCodeCorrect.length ) {
+    if (secretCode.toString() === secretCodeCorrect.toString()) {
+      secretElements.classList.toggle('visible');
     }
   }
 }

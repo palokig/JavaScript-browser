@@ -20,11 +20,9 @@ var secretElements = document.getElementsByClassName('secret')[0];
 function showSecretCode(){
     if (secretCodeCorrect[secretCode.length] == event.code) {
         secretCode.push(event.code);
-        console.log(secretCode);
     }
     else {
         secretCode = [];
-        console.log(secretCode);
     }
 
   if (secretCode.length  >= secretCodeCorrect.length ) {

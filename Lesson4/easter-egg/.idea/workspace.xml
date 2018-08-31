@@ -26,8 +26,8 @@
       <file leaf-file-name="easter.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/easter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+            <state>
+              <caret column="16" selection-start-column="9" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -114,12 +114,12 @@
       <workItem from="1533227901763" duration="2635000" />
       <workItem from="1533269273217" duration="2696000" />
       <workItem from="1533280337550" duration="12000" />
-      <workItem from="1535700902866" duration="2680000" />
+      <workItem from="1535700902866" duration="2974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8023000" />
+    <option name="totallyTimeSpent" value="8317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="144" y="58" width="1400" height="1000" extended-state="0" />
@@ -202,8 +202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/easter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        <state>
+          <caret column="16" selection-start-column="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
